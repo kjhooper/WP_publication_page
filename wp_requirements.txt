@@ -1,0 +1,2 @@
+WP-DBManager Version 2.80.3 | By Lester 'GaMerZ' Chan
+PHP Everywhere Version 2.0.1 | By Alexander Fuchs
